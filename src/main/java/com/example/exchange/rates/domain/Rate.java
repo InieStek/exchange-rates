@@ -1,4 +1,4 @@
-package com.example.exchange.rates;
+package com.example.exchange.rates.domain;
 
 import java.util.HashMap;
 import java.util.Map;
