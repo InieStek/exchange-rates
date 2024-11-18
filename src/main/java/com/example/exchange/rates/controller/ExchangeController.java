@@ -13,6 +13,6 @@ public class ExchangeController {
     @GetMapping("/exchange")
     public ExchangeService getExchange(){
 
-        return exchangeService;
+        return exchangeService.getExchange();
     }
 }
